@@ -5,7 +5,6 @@
 
 ### From Asturias, Spain, Frontend Developer and Graphic Designer.  
 
-### You can checkout part of my graphic work at my [portfolio](https://www.heyanabanana.es/) and some of my code work [here](https://github.com/heyanabanana?tab=repositories)
 
 ### What I'm doing:
 
@@ -20,15 +19,4 @@
  
 
 
-### Contact
-
-<a href="https://www.linkedin.com/in/ana-fern%C3%A1ndez-vald%C3%A9s-56356383/"><img src="https://img.shields.io/badge/linkedin-anafdez-%23DD8183"
-     alt="Linkedin Ana Fernandez"
-     style="float: left; margin-right: 10px;" /></a> 
-<a href="https://www.behance.net/anafernndez7"><img src="https://img.shields.io/badge/behance-heyanabanana-%23DD8183"
-     alt="Behance Ana Fernandez"
-     style="float: left; margin-right: 10px;" /></a>  
-<a href="https://www.instagram.com/hey.anabanana/?hl=es"><img src="https://img.shields.io/badge/instagram-heyanabanana-%23DD8183"
-     alt="Instagram Ana Fernandez"
-     style="float: left; margin-right: 10px;" /></a>
      
