@@ -6,9 +6,9 @@ I’m very detail-oriented and strive to deliver high-quality work. I enjoy work
 
 I’m always looking for opportunities to learn and grow in my career.
 
-- 📍 I’m currently working at [JobRun](https://jobrun.dev)  as frontend developer.  
+- 📍 I’m currently working at Questie & Kaikoo as frontend developer & UI Designer.  
 
-- 🔍 I’m currently working with ReactJS and Typescript.  
+- 🔍 I’m currently working with Vue, Nuxt, ReactJS and Typescript.  
   
 - ❓ I'm learning about design system and user interface design.  
   
