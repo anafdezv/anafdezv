@@ -1,12 +1,10 @@
 ## Hi, I'm Ana, frontend developer and product designer👩‍💻   
   
-I’m a highly creative and passionate frontend developer and UI/UX designer. I have a degree in Product Design and love learning new things and tackling challenges. 
+I’m a frontend developer and UI/UX designer. I have a degree in Product Design and love learning new things and tackling challenges. 
 
 I’m very detail-oriented and strive to deliver high-quality work. I enjoy working on projects that allow me to apply my technical and creative skills to solve problems and improve the user experience. 
 
 I’m always looking for opportunities to learn and grow in my career.
-
-- 📍 I’m currently working at Questie & Kaikoo as frontend developer & UI Designer.  
 
 - 🔍 I’m currently working with Vue, Nuxt, ReactJS and Typescript.  
   
